@@ -41,7 +41,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="#" class="flex items-center text-gray-400 hover:text-white">
+                    <a href="/logout" class="flex items-center text-gray-400 hover:text-white">
                         <i class="fas fa-sign-out-alt mr-3"></i>
                         Log Out
                     </a>
